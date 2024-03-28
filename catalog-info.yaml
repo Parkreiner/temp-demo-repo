@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: python-project
+  name: temp-demo-repo
 spec:
   type: other
   lifecycle: unknown
